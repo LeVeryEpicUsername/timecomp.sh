@@ -4,7 +4,7 @@ a bash script for comparing two different commands
 
 Note:its my first time posting a project on github and its my first bash script that has actualy more than 50 lines, as you can expect there could be bugs and bad code,
 
-#Installation
+# Installation
 
 download the script, (you can copy paste the script into an .sh file if you want) and make it executable
 
@@ -12,7 +12,7 @@ download the script, (you can copy paste the script into an .sh file if you want
 chmod +x timecomp.sh
 ```
 
-#Usage
+# Usage
 
 you can print the help message via "timecomp.sh -h" (it also has nice colors!1!!11111)
 
