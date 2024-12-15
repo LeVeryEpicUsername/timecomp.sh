@@ -5,7 +5,9 @@ a bash script for comparing two different commands
 # preview
 ![preview](https://github.com/LeVeryEpicUsername/timecomp.sh/blob/main/preview.jpg)
 
-Note:its my first time posting a project on github and its my first bash script that has actualy more than 50 lines, as you can expect there could be bugs and bad code,
+# Note
+
+its my first time posting a project on github and its my first bash script that has actualy more than 50 lines, as you can expect there could be bugs and bad code,
 
 # Installation
 
